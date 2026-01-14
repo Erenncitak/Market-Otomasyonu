@@ -142,6 +142,20 @@ AForge.Video.DirectShow
 
 Kamerası olan bir bilgisayarda projeyi çalıştır
 
+## 🔐 Demo Giriş Bilgileri
+
+Projeyi incelemek isteyenler için örnek kullanıcı hesapları:
+
+### 👤 Admin Panel
+- **Kullanıcı Adı:** admin
+- **Şifre:** 1234
+
+### 💼 Kasiyer Panel
+- **Kullanıcı Adı:** kasiyer
+- **Şifre:** 1234
+
+> ℹ️ Bu bilgiler yalnızca demo amaçlıdır.  
+> Gerçek bir projede şifreler veritabanında hash’li şekilde saklanmalıdır.
 
 🧠 Bu Proje Ne Gösteriyor?
 
