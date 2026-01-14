@@ -1,4 +1,5 @@
 🏪 Market Otomasyonu (C# WinForms)
+
 Bu proje, C# Windows Forms kullanılarak geliştirilmiş, kamera destekli barkod/karekod okutma özelliğine sahip bir Market Otomasyon Sistemidir.
 Küçük ve orta ölçekli marketlerde; ürün yönetimi, satış işlemleri ve stok takibini kolaylaştırmak amacıyla hazırlanmıştır.
 
