@@ -3,7 +3,7 @@
 Bu proje, C# Windows Forms kullanılarak geliştirilmiş, kamera destekli barkod/karekod okutma özelliğine sahip bir Market Otomasyon Sistemidir.
 Küçük ve orta ölçekli marketlerde; ürün yönetimi, satış işlemleri ve stok takibini kolaylaştırmak amacıyla hazırlanmıştır.
 
-Proje, junior seviyesinde bir geliştiricinin gerçek hayattaki bir problemi uçtan uca ele almasını hedefler.
+
 
 🎯 Projenin Amacı
 
@@ -18,6 +18,7 @@ Kasiyer, kamera ile barkod/karekod okutarak hızlı satış yapabilir
 Farklı kullanıcı rolleri için farklı paneller sunulur
 
 Amaç; gerçek bir market senaryosunu sade ve anlaşılır bir mimariyle uygulamaktır.
+
 
 🧩 Temel Özellikler
 🔐 Kullanıcı & Rol Yapısı
@@ -42,6 +43,7 @@ Kullanıcı Panel
 
 Bu yapı sayesinde yetkilendirme mantığı pratik olarak uygulanmıştır.
 
+
 📦 Ürün Yönetimi
 
 Ürünler Urun modeli ile temsil edilir
@@ -50,9 +52,11 @@ Bu yapı sayesinde yetkilendirme mantığı pratik olarak uygulanmıştır.
 
 Repository yapısı ile veritabanı işlemleri merkezileştirilmiştir
 
+
 📷 Barkod / Karekod Okutma Sistemi (Öne Çıkan Özellik)
 
 Bu projede kamera ile canlı barkod okutma sistemi bulunmaktadır.
+
 
 🔧 Nasıl Çalışır?
 
@@ -75,6 +79,7 @@ Sesli bildirim (barkod.wav) çalınır
 📌 Bu özellik özellikle KasiyerPanel ve MeyveSebzePanel içerisinde aktif olarak kullanılmaktadır.
 
 Bu yapı, marketlerde manuel ürün arama ihtiyacını ortadan kaldırarak işlem hızını ciddi şekilde artırır.
+
 
 🗃️ Veritabanı & Mimari Yapı
 
@@ -106,6 +111,7 @@ UrunPanel
 
 Bu yapı, kodun okunabilirliğini ve sürdürülebilirliğini artırır.
 
+
 🛠️ Kullanılan Teknolojiler
 Teknoloji	Açıklama
 C#	Ana programlama dili
@@ -114,6 +120,7 @@ SQL Server / T-SQL	Veritabanı işlemleri
 AForge.NET	Kamera erişimi
 ZXing.NET	Barkod / karekod okuma
 Visual Studio	Geliştirme ortamı
+
 🚀 Kurulum & Çalıştırma
 
 Projeyi klonla:
@@ -134,6 +141,7 @@ AForge.Video
 AForge.Video.DirectShow
 
 Kamerası olan bir bilgisayarda projeyi çalıştır
+
 
 🧠 Bu Proje Ne Gösteriyor?
 
